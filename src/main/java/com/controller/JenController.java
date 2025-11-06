@@ -10,6 +10,6 @@ public class JenController {
 
 	@GetMapping(value="/getTest")
 	 public String getTest() {
-		  return "Hi Welcome to jenkins Auto CI and CD ";	
+		  return "Hi Welcome to jenkins Auto CI and CD after git add";	
 }
 }
